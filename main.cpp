@@ -83,7 +83,8 @@ auto problem3() -> void
 	std::cout << last_index(arr, size, x) << std::endl;
 }
 
-auto main() -> int{
+auto main() -> int 
+{
     // You should not change the code below this point.  
     // All your changes should be inside the individual functions shown above.
     int menu_option = 0;
